@@ -2,9 +2,9 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaLinkedin, FaPhoneSquareAlt, FaGithubSquare } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import me from "./me.png";
-
+import Grid from "./grid"
 import "./styles.scss";
+
 
 const Body = () => {
   const text = "Hey there, I'm-".split(" ");
@@ -68,58 +68,10 @@ const Body = () => {
           </a>
         </div>
       </section>
-      <section className="section flex p-14 justify-center items-center">
-        <div className="">
-          <div className="flex">
-            <h2 className="text-4xl font-bold text-primary mb-3">About Me</h2>
-            {/* <motion.p
-              whileHover={{ scale: 1.2 }}
-              whileTap={{ scale: 0.8 }}
-              className="text-teritary font-extrabold text-sm"
-            >
-              Awesome
-            </motion.p> */}
-          </div>
-          <div className="text-xl max-w-[60%] w-full">
-            <p className="text-teritary/70 font-semibold">
-              I'm a passionate{" "}
-              <span className="text-primary">Front End Developer</span> based in
-              Kochi. With a keen eye for detail and a love for all things code,
-              I specialize in{" "}
-              <span className="text-primary">
-                crafting seamless and captivating Web Apps
-              </span>
-              .
-            </p>
-            <p className="text-teritary/70 font-semibold">
-              My journey into the world of
-              <span className="text-primary"> web development</span> began
-              during my college days, where I discovered my knack for turning
-              design concepts into functional realities.
-            </p>
-            <p className="text-primary font-semibold mt-3">
-              {" "}
-              What started as a curiosity quickly blossomed into a full-blown
-              passion as I delved deeper into HTML, CSS, and JavaScript.
-            </p>
-            <p className="text-teritary/70 font-semibold mt-3">
-              When I'm not coding, you'll likely find me on the football field
-              or enjoying a movie marathon.<span className="text-primary"> Football </span>fuels my passion for
-              camaraderie and competition, while<span className="text-primary"> movies and series</span> offer me a
-              chance to unwind and explore captivating stories.
-            </p>
-          </div>
-        </div>
-        {/* <motion.img
-          initial={{ opacity: 0, scale: 0.5 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.5 }}
-          src={me}
-          alt=""
-          srcset=""
-          className="h-[75%]"
-        /> */}
-        
+      <section>
+      </section>
+      <section className="h-screen">
+        <Grid className="h-full"/>
       </section>
     </div>
   );
