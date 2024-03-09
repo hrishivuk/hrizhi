@@ -27,7 +27,7 @@ function App() {
         '.link'
       ]}
     />
-      <Navbar />
+      {/* <Navbar /> */}
       <Body/>
     </div>
   );
