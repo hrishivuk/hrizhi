@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/hrizhi/static/css/main.bed8582c.css",
-    "main.js": "/hrizhi/static/js/main.0a15439b.js",
+    "main.css": "/hrizhi/static/css/main.908fb42d.css",
+    "main.js": "/hrizhi/static/js/main.1a9665b9.js",
     "static/js/453.1407b060.chunk.js": "/hrizhi/static/js/453.1407b060.chunk.js",
-    "static/media/me.png": "/hrizhi/static/media/me.60fd652cfea60039adb5.png",
+    "static/media/greek_oversized2.jpg": "/hrizhi/static/media/greek_oversized2.95699d2a3376850cd491.jpg",
+    "static/media/itachi1.jpg": "/hrizhi/static/media/itachi1.4f8744667009dc08e0cc.jpg",
+    "static/media/itachi2.jpg": "/hrizhi/static/media/itachi2.cfde6d78715219047b18.jpg",
+    "static/media/me2.jpg": "/hrizhi/static/media/me2.51b247be191343541fab.jpg",
     "index.html": "/hrizhi/index.html",
-    "main.bed8582c.css.map": "/hrizhi/static/css/main.bed8582c.css.map",
-    "main.0a15439b.js.map": "/hrizhi/static/js/main.0a15439b.js.map",
+    "static/media/logo4.svg": "/hrizhi/static/media/logo4.dde7584dd90f47b26ae4ee5003368981.svg",
+    "main.908fb42d.css.map": "/hrizhi/static/css/main.908fb42d.css.map",
+    "main.1a9665b9.js.map": "/hrizhi/static/js/main.1a9665b9.js.map",
     "453.1407b060.chunk.js.map": "/hrizhi/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed8582c.css",
-    "static/js/main.0a15439b.js"
+    "static/css/main.908fb42d.css",
+    "static/js/main.1a9665b9.js"
   ]
 }
