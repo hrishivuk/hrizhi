@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/hrizhi/static/css/main.908fb42d.css",
-    "main.js": "/hrizhi/static/js/main.1a9665b9.js",
+    "main.css": "/hrizhi/static/css/main.2261775a.css",
+    "main.js": "/hrizhi/static/js/main.0d6fa696.js",
     "static/js/453.1407b060.chunk.js": "/hrizhi/static/js/453.1407b060.chunk.js",
+    "static/media/spotifyImg.png": "/hrizhi/static/media/spotifyImg.6447a36d1c1896733c2c.png",
+    "static/media/currentSong.png": "/hrizhi/static/media/currentSong.a79451762c44b212a4d5.png",
+    "static/media/resume.jpg": "/hrizhi/static/media/resume.a5fbe8a141de52749c63.jpg",
     "static/media/greek_oversized2.jpg": "/hrizhi/static/media/greek_oversized2.95699d2a3376850cd491.jpg",
     "static/media/itachi1.jpg": "/hrizhi/static/media/itachi1.4f8744667009dc08e0cc.jpg",
     "static/media/itachi2.jpg": "/hrizhi/static/media/itachi2.cfde6d78715219047b18.jpg",
+    "static/media/playslists.png": "/hrizhi/static/media/playslists.8441765181c133eb87fb.png",
+    "static/media/platinum_oversized.jpg": "/hrizhi/static/media/platinum_oversized.ccd6affc45e91f92d62a.jpg",
+    "static/media/platinum_oversized2.jpg": "/hrizhi/static/media/platinum_oversized2.52d8c70c64ef048f1c32.jpg",
+    "static/media/globe.svg": "/hrizhi/static/media/globe.6146d3940c679ac19013.svg",
+    "static/media/rsongs.png": "/hrizhi/static/media/rsongs.a99e104f5de7536b925a.png",
     "static/media/me2.jpg": "/hrizhi/static/media/me2.51b247be191343541fab.jpg",
     "index.html": "/hrizhi/index.html",
+    "static/media/logo1.svg": "/hrizhi/static/media/logo1.6988e956cb0323cd3e2ddf55a67844d8.svg",
     "static/media/logo4.svg": "/hrizhi/static/media/logo4.dde7584dd90f47b26ae4ee5003368981.svg",
-    "main.908fb42d.css.map": "/hrizhi/static/css/main.908fb42d.css.map",
-    "main.1a9665b9.js.map": "/hrizhi/static/js/main.1a9665b9.js.map",
+    "main.2261775a.css.map": "/hrizhi/static/css/main.2261775a.css.map",
+    "main.0d6fa696.js.map": "/hrizhi/static/js/main.0d6fa696.js.map",
     "453.1407b060.chunk.js.map": "/hrizhi/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.908fb42d.css",
-    "static/js/main.1a9665b9.js"
+    "static/css/main.2261775a.css",
+    "static/js/main.0d6fa696.js"
   ]
 }
